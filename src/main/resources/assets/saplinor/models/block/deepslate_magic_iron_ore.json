@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "saplinor:block/deepslate_magic_iron_ore"
+  }
+}

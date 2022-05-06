@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "magic_iron_ingot",
+  "ingredient": {
+    "item": "saplinor:raw_magic_iron"
+  },
+  "result": "saplinor:magic_iron_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

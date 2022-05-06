@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "saplinor:magic_iron_block",
+    "saplinor:magic_iron_ore",
+    "saplinor:deepslate_magic_iron_ore",
+    "saplinor:netherrack_magic_iron_ore"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BAB",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "saplinor:magic_iron_block"
+    },
+    "B": {      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "saplinor:speed_boost_block"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "item.saplinor.magic_iron_ingot": "魔鐵錠",
+  "item.saplinor.magic_iron_nugget": "魔鐵粒",
+  "item.saplinor.raw_magic_iron": "生魔鐵",
+
+  "item.saplinor.magic_detector": "探礦棒",
+  "item.saplinor.magic_detector.tooltip": "按下§eSHIFT§r取得更多資訊",
+  "item.saplinor.magic_detector.tooltip.shift": "按右鍵以尋找礦物",
+
+  "item.saplinor.bamboo_coal": "竹炭",
+  "item.saplinor.apple_pie": "蘋果派",
+
+  "block.saplinor.magic_iron_block": "魔鐵塊",
+  "block.saplinor.magic_iron_ore": "魔鐵礦",
+  "block.saplinor.deepslate_magic_iron_ore": "深板岩魔鐵礦",
+  "block.saplinor.netherrack_magic_iron_ore": "地獄魔鐵礦",
+  "block.saplinor.speed_boost_block": "加速方塊",
+  "itemGroup.saplinor.saplinor": "皂模組",
+
+  "item.saplinor.magic_detector.no_valuables": "無偵測結果"
+
+}

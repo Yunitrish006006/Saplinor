@@ -1,0 +1,22 @@
+{
+  "item.saplinor.magic_iron_ingot": "Magic Iron Ingot",
+  "item.saplinor.magic_iron_nugget": "Magic Iron Nugget",
+  "item.saplinor.raw_magic_iron": "Raw Magic Iron Ore",
+
+  "item.saplinor.magic_detector": "Magic Detector",
+  "item.saplinor.magic_detector.tooltip": "Press §eSHIFT§r for more information",
+  "item.saplinor.magic_detector.tooltip.shift": "Right Click to find valuables",
+
+  "item.saplinor.bamboo_coal": "Bamboo Coal",
+  "item.saplinor.apple_pie": "Apple Pie",
+
+  "block.saplinor.magic_iron_block": "Magic Iron Block",
+  "block.saplinor.magic_iron_ore": "Magic Iron Ore",
+  "block.saplinor.deepslate_magic_iron_ore": "DeepSlate Magic Iron Ore",
+  "block.saplinor.netherrack_magic_iron_ore": "Netherack Magic Iron Ore",
+  "block.saplinor.speed_boost_block": "Speed Boost Block",
+
+  "itemGroup.saplinor.saplinor": "saplinor Tab",
+
+  "item.saplinor.magic_detector.no_valuables": "nothing detected"
+}
